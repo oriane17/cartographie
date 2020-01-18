@@ -4,7 +4,7 @@
 
 Premier script pour lancer chaque traceroute et mettre en forme un fichier pour chaque adresse.
 
-------------------------------------------------------------------------------------------------------------------------
+|----------------------------------------------------------------------------------------------------------------------|
 | variables | utilité							      | modifiable			       |
 -----------------------------------------------------------------------------------------------------------------------|
 |sites      | liste de sites pour le traceroute				      | Oui, ajouter ou supprimer des adresses |
@@ -29,7 +29,7 @@ Et il remplacera les * par une phrase.
 
 Pour finir, il lance le 2eme script, xdot.sh
 
-##Script xdot.sh
+## Script xdot.sh
  
 Ce script commence par la syntaxe nécessaire à la création d'un graphe .dot
 Il va ensuite juste prendre chaque fichier .rte créé à l'aide de mon 1er script, et enlever les retours à la ligne.
