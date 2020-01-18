@@ -1,0 +1,1715 @@
+No.     Time           Source                Destination           Protocol Length Info
+      1 0.000000000    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 1: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc01 (64513)
+    Flags: 0x0000
+    Time to live: 1
+    Protocol: UDP (17)
+    Header checksum: 0xd285 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 42706, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+      2 0.000062053    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 2: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc02 (64514)
+    Flags: 0x0000
+    Time to live: 1
+    Protocol: UDP (17)
+    Header checksum: 0xd284 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 50810, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+      3 0.000114205    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 3: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc03 (64515)
+    Flags: 0x0000
+    Time to live: 1
+    Protocol: UDP (17)
+    Header checksum: 0xd283 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 45409, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+      4 0.000166562    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 4: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc04 (64516)
+    Flags: 0x0000
+    Time to live: 2
+    Protocol: UDP (17)
+    Header checksum: 0xd182 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 49881, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+      5 0.000220011    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 5: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc05 (64517)
+    Flags: 0x0000
+    Time to live: 2
+    Protocol: UDP (17)
+    Header checksum: 0xd181 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 58355, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+      6 0.000271899    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 6: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc06 (64518)
+    Flags: 0x0000
+    Time to live: 2
+    Protocol: UDP (17)
+    Header checksum: 0xd180 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 51394, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+      7 0.000324112    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 7: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc07 (64519)
+    Flags: 0x0000
+    Time to live: 3
+    Protocol: UDP (17)
+    Header checksum: 0xd07f [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 60377, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+      8 0.000376505    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 8: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc08 (64520)
+    Flags: 0x0000
+    Time to live: 3
+    Protocol: UDP (17)
+    Header checksum: 0xd07e [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 37871, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+      9 0.000427109    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 9: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc09 (64521)
+    Flags: 0x0000
+    Time to live: 3
+    Protocol: UDP (17)
+    Header checksum: 0xd07d [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 42120, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+     10 0.000484062    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 10: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc0a (64522)
+    Flags: 0x0000
+    Time to live: 4
+    Protocol: UDP (17)
+    Header checksum: 0xcf7c [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 48914, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+     11 0.000537895    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 11: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc0b (64523)
+    Flags: 0x0000
+    Time to live: 4
+    Protocol: UDP (17)
+    Header checksum: 0xcf7b [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 58078, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+     12 0.000591584    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 12: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc0c (64524)
+    Flags: 0x0000
+    Time to live: 4
+    Protocol: UDP (17)
+    Header checksum: 0xcf7a [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 60241, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+     13 0.000644996    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 13: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc0d (64525)
+    Flags: 0x0000
+    Time to live: 5
+    Protocol: UDP (17)
+    Header checksum: 0xce79 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 42826, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+     14 0.000696477    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 14: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc0e (64526)
+    Flags: 0x0000
+    Time to live: 5
+    Protocol: UDP (17)
+    Header checksum: 0xce78 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 50499, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+     15 0.000749050    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 15: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc0f (64527)
+    Flags: 0x0000
+    Time to live: 5
+    Protocol: UDP (17)
+    Header checksum: 0xce77 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 48350, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+     16 0.000800446    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 16: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc10 (64528)
+    Flags: 0x0000
+    Time to live: 6
+    Protocol: UDP (17)
+    Header checksum: 0xcd76 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 38124, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+     17 0.000875771    194.199.227.254       10.214.0.88           ICMP     70     Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 17: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface 0
+Ethernet II, Src: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c), Dst: HewlettP_7c:40:5c (58:20:b1:7c:40:5c)
+Internet Protocol Version 4, Src: 194.199.227.254, Dst: 10.214.0.88
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0xc0 (DSCP: CS6, ECN: Not-ECT)
+    Total Length: 56
+    Identification: 0xe61c (58908)
+    Flags: 0x0000
+    Time to live: 254
+    Protocol: ICMP (1)
+    Header checksum: 0x23f4 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 194.199.227.254
+    Destination: 10.214.0.88
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     18 0.001016773    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 18: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc11 (64529)
+    Flags: 0x0000
+    Time to live: 6
+    Protocol: UDP (17)
+    Header checksum: 0xcd75 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 40588, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+     19 0.001085546    194.199.227.254       10.214.0.88           ICMP     70     Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 19: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface 0
+Ethernet II, Src: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c), Dst: HewlettP_7c:40:5c (58:20:b1:7c:40:5c)
+Internet Protocol Version 4, Src: 194.199.227.254, Dst: 10.214.0.88
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0xc0 (DSCP: CS6, ECN: Not-ECT)
+    Total Length: 56
+    Identification: 0xe61d (58909)
+    Flags: 0x0000
+    Time to live: 254
+    Protocol: ICMP (1)
+    Header checksum: 0x23f3 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 194.199.227.254
+    Destination: 10.214.0.88
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     20 0.001228888    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 20: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc12 (64530)
+    Flags: 0x0000
+    Time to live: 6
+    Protocol: UDP (17)
+    Header checksum: 0xcd74 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 35711, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+     21 0.001880389    194.199.227.254       10.214.0.88           ICMP     70     Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 21: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface 0
+Ethernet II, Src: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c), Dst: HewlettP_7c:40:5c (58:20:b1:7c:40:5c)
+Internet Protocol Version 4, Src: 194.199.227.254, Dst: 10.214.0.88
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0xc0 (DSCP: CS6, ECN: Not-ECT)
+    Total Length: 56
+    Identification: 0xe61e (58910)
+    Flags: 0x0000
+    Time to live: 254
+    Protocol: ICMP (1)
+    Header checksum: 0x23f2 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 194.199.227.254
+    Destination: 10.214.0.88
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     22 0.002100448    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 22: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc13 (64531)
+    Flags: 0x0000
+    Time to live: 7
+    Protocol: UDP (17)
+    Header checksum: 0xcc73 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 58587, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+     23 0.004786455    10.214.255.254        10.214.0.88           ICMP     102    Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 23: 102 bytes on wire (816 bits), 102 bytes captured (816 bits) on interface 0
+Ethernet II, Src: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c), Dst: HewlettP_7c:40:5c (58:20:b1:7c:40:5c)
+Internet Protocol Version 4, Src: 10.214.255.254, Dst: 10.214.0.88
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 88
+    Identification: 0xfd0d (64781)
+    Flags: 0x0000
+    Time to live: 255
+    Protocol: ICMP (1)
+    Header checksum: 0xa894 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.255.254
+    Destination: 10.214.0.88
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     24 0.005167580    10.214.255.254        10.214.0.88           ICMP     102    Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 24: 102 bytes on wire (816 bits), 102 bytes captured (816 bits) on interface 0
+Ethernet II, Src: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c), Dst: HewlettP_7c:40:5c (58:20:b1:7c:40:5c)
+Internet Protocol Version 4, Src: 10.214.255.254, Dst: 10.214.0.88
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 88
+    Identification: 0xfd0e (64782)
+    Flags: 0x0000
+    Time to live: 255
+    Protocol: ICMP (1)
+    Header checksum: 0xa893 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.255.254
+    Destination: 10.214.0.88
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     25 0.005577889    10.214.255.254        10.214.0.88           ICMP     102    Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 25: 102 bytes on wire (816 bits), 102 bytes captured (816 bits) on interface 0
+Ethernet II, Src: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c), Dst: HewlettP_7c:40:5c (58:20:b1:7c:40:5c)
+Internet Protocol Version 4, Src: 10.214.255.254, Dst: 10.214.0.88
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 88
+    Identification: 0xfd0f (64783)
+    Flags: 0x0000
+    Time to live: 255
+    Protocol: ICMP (1)
+    Header checksum: 0xa892 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.255.254
+    Destination: 10.214.0.88
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     26 0.006094196    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 26: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc14 (64532)
+    Flags: 0x0000
+    Time to live: 7
+    Protocol: UDP (17)
+    Header checksum: 0xcc72 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 53996, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+     27 0.007088661    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 27: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc15 (64533)
+    Flags: 0x0000
+    Time to live: 7
+    Protocol: UDP (17)
+    Header checksum: 0xcc71 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 55502, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+     28 0.007152514    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 28: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc16 (64534)
+    Flags: 0x0000
+    Time to live: 8
+    Protocol: UDP (17)
+    Header checksum: 0xcb70 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 36372, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+     29 0.012867913    10.3.7.25             10.214.0.88           ICMP     182    Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 29: 182 bytes on wire (1456 bits), 182 bytes captured (1456 bits) on interface 0
+Ethernet II, Src: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c), Dst: HewlettP_7c:40:5c (58:20:b1:7c:40:5c)
+Internet Protocol Version 4, Src: 10.3.7.25, Dst: 10.214.0.88
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 168
+    Identification: 0xc787 (51079)
+    Flags: 0x0000
+    Time to live: 251
+    Protocol: ICMP (1)
+    Header checksum: 0xdb83 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.3.7.25
+    Destination: 10.214.0.88
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     30 0.012913658    10.3.7.25             10.214.0.88           ICMP     182    Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 30: 182 bytes on wire (1456 bits), 182 bytes captured (1456 bits) on interface 0
+Ethernet II, Src: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c), Dst: HewlettP_7c:40:5c (58:20:b1:7c:40:5c)
+Internet Protocol Version 4, Src: 10.3.7.25, Dst: 10.214.0.88
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 168
+    Identification: 0xc788 (51080)
+    Flags: 0x0000
+    Time to live: 251
+    Protocol: ICMP (1)
+    Header checksum: 0xdb82 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.3.7.25
+    Destination: 10.214.0.88
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     31 0.013347439    10.3.7.25             10.214.0.88           ICMP     182    Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 31: 182 bytes on wire (1456 bits), 182 bytes captured (1456 bits) on interface 0
+Ethernet II, Src: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c), Dst: HewlettP_7c:40:5c (58:20:b1:7c:40:5c)
+Internet Protocol Version 4, Src: 10.3.7.25, Dst: 10.214.0.88
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 168
+    Identification: 0xc789 (51081)
+    Flags: 0x0000
+    Time to live: 251
+    Protocol: ICMP (1)
+    Header checksum: 0xdb81 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.3.7.25
+    Destination: 10.214.0.88
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     32 0.015045210    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 32: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc18 (64536)
+    Flags: 0x0000
+    Time to live: 8
+    Protocol: UDP (17)
+    Header checksum: 0xcb6e [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 47106, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+     33 0.015110383    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 33: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc19 (64537)
+    Flags: 0x0000
+    Time to live: 8
+    Protocol: UDP (17)
+    Header checksum: 0xcb6d [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 48071, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+     34 0.015238748    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 34: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc1a (64538)
+    Flags: 0x0000
+    Time to live: 9
+    Protocol: UDP (17)
+    Header checksum: 0xca6c [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 36618, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+     35 0.015590449    193.51.177.18         10.214.0.88           ICMP     70     Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 35: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface 0
+Ethernet II, Src: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c), Dst: HewlettP_7c:40:5c (58:20:b1:7c:40:5c)
+Internet Protocol Version 4, Src: 193.51.177.18, Dst: 10.214.0.88
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 56
+    Identification: 0x0000 (0)
+    Flags: 0x0000
+    Time to live: 250
+    Protocol: ICMP (1)
+    Header checksum: 0x4351 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 193.51.177.18
+    Destination: 10.214.0.88
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     36 0.015617605    193.51.180.181        10.214.0.88           ICMP     182    Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 36: 182 bytes on wire (1456 bits), 182 bytes captured (1456 bits) on interface 0
+Ethernet II, Src: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c), Dst: HewlettP_7c:40:5c (58:20:b1:7c:40:5c)
+Internet Protocol Version 4, Src: 193.51.180.181, Dst: 10.214.0.88
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 168
+    Identification: 0x93e6 (37862)
+    Flags: 0x0000
+    Time to live: 249
+    Protocol: ICMP (1)
+    Header checksum: 0xac57 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 193.51.180.181
+    Destination: 10.214.0.88
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     37 0.015626437    193.51.180.181        10.214.0.88           ICMP     182    Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 37: 182 bytes on wire (1456 bits), 182 bytes captured (1456 bits) on interface 0
+Ethernet II, Src: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c), Dst: HewlettP_7c:40:5c (58:20:b1:7c:40:5c)
+Internet Protocol Version 4, Src: 193.51.180.181, Dst: 10.214.0.88
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 168
+    Identification: 0x93e7 (37863)
+    Flags: 0x0000
+    Time to live: 249
+    Protocol: ICMP (1)
+    Header checksum: 0xac56 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 193.51.180.181
+    Destination: 10.214.0.88
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     38 0.015735543    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 38: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc1b (64539)
+    Flags: 0x0000
+    Time to live: 9
+    Protocol: UDP (17)
+    Header checksum: 0xca6b [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 38728, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+     39 0.015789532    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 39: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc1c (64540)
+    Flags: 0x0000
+    Time to live: 9
+    Protocol: UDP (17)
+    Header checksum: 0xca6a [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 47235, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+     40 0.015843508    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 40: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc1d (64541)
+    Flags: 0x0000
+    Time to live: 10
+    Protocol: UDP (17)
+    Header checksum: 0xc969 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 42034, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+     41 0.016110512    193.51.177.236        10.214.0.88           ICMP     70     Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 41: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface 0
+Ethernet II, Src: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c), Dst: HewlettP_7c:40:5c (58:20:b1:7c:40:5c)
+Internet Protocol Version 4, Src: 193.51.177.236, Dst: 10.214.0.88
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 56
+    Identification: 0x0000 (0)
+    Flags: 0x0000
+    Time to live: 250
+    Protocol: ICMP (1)
+    Header checksum: 0x4277 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 193.51.177.236
+    Destination: 10.214.0.88
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     42 0.016125152    193.51.180.181        10.214.0.88           ICMP     182    Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 42: 182 bytes on wire (1456 bits), 182 bytes captured (1456 bits) on interface 0
+Ethernet II, Src: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c), Dst: HewlettP_7c:40:5c (58:20:b1:7c:40:5c)
+Internet Protocol Version 4, Src: 193.51.180.181, Dst: 10.214.0.88
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 168
+    Identification: 0x93e8 (37864)
+    Flags: 0x0000
+    Time to live: 249
+    Protocol: ICMP (1)
+    Header checksum: 0xac55 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 193.51.180.181
+    Destination: 10.214.0.88
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     43 0.016222713    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 43: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc1e (64542)
+    Flags: 0x0000
+    Time to live: 10
+    Protocol: UDP (17)
+    Header checksum: 0xc968 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 46998, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+     44 0.016278238    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 44: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc1f (64543)
+    Flags: 0x0000
+    Time to live: 10
+    Protocol: UDP (17)
+    Header checksum: 0xc967 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 38965, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+     45 0.016340747    193.51.177.18         10.214.0.88           ICMP     70     Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 45: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface 0
+Ethernet II, Src: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c), Dst: HewlettP_7c:40:5c (58:20:b1:7c:40:5c)
+Internet Protocol Version 4, Src: 193.51.177.18, Dst: 10.214.0.88
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 56
+    Identification: 0x0000 (0)
+    Flags: 0x0000
+    Time to live: 250
+    Protocol: ICMP (1)
+    Header checksum: 0x4351 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 193.51.177.18
+    Destination: 10.214.0.88
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     46 0.016440432    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 46: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc20 (64544)
+    Flags: 0x0000
+    Time to live: 11
+    Protocol: UDP (17)
+    Header checksum: 0xc866 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 55460, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+     47 0.017581923    149.6.155.233         10.214.0.88           ICMP     110    Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 47: 110 bytes on wire (880 bits), 110 bytes captured (880 bits) on interface 0
+Ethernet II, Src: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c), Dst: HewlettP_7c:40:5c (58:20:b1:7c:40:5c)
+Internet Protocol Version 4, Src: 149.6.155.233, Dst: 10.214.0.88
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 96
+    Identification: 0xfb4e (64334)
+    Flags: 0x0000
+    Time to live: 249
+    Protocol: ICMP (1)
+    Header checksum: 0x8a30 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 149.6.155.233
+    Destination: 10.214.0.88
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     48 0.017678500    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 48: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc21 (64545)
+    Flags: 0x0000
+    Time to live: 11
+    Protocol: UDP (17)
+    Header checksum: 0xc865 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 32943, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+     49 0.021847643    149.6.155.233         10.214.0.88           ICMP     110    Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 49: 110 bytes on wire (880 bits), 110 bytes captured (880 bits) on interface 0
+Ethernet II, Src: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c), Dst: HewlettP_7c:40:5c (58:20:b1:7c:40:5c)
+Internet Protocol Version 4, Src: 149.6.155.233, Dst: 10.214.0.88
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 96
+    Identification: 0xfb50 (64336)
+    Flags: 0x0000
+    Time to live: 249
+    Protocol: ICMP (1)
+    Header checksum: 0x8a2e [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 149.6.155.233
+    Destination: 10.214.0.88
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     50 0.022213840    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 50: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc22 (64546)
+    Flags: 0x0000
+    Time to live: 11
+    Protocol: UDP (17)
+    Header checksum: 0xc864 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 41510, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+     51 0.024585587    149.6.155.233         10.214.0.88           ICMP     110    Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 51: 110 bytes on wire (880 bits), 110 bytes captured (880 bits) on interface 0
+Ethernet II, Src: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c), Dst: HewlettP_7c:40:5c (58:20:b1:7c:40:5c)
+Internet Protocol Version 4, Src: 149.6.155.233, Dst: 10.214.0.88
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 96
+    Identification: 0xfb51 (64337)
+    Flags: 0x0000
+    Time to live: 249
+    Protocol: ICMP (1)
+    Header checksum: 0x8a2d [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 149.6.155.233
+    Destination: 10.214.0.88
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     52 0.024754322    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 52: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc23 (64547)
+    Flags: 0x0000
+    Time to live: 12
+    Protocol: UDP (17)
+    Header checksum: 0xc763 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 56004, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+     53 0.033611314    130.117.49.153        10.214.0.88           ICMP     110    Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 53: 110 bytes on wire (880 bits), 110 bytes captured (880 bits) on interface 0
+Ethernet II, Src: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c), Dst: HewlettP_7c:40:5c (58:20:b1:7c:40:5c)
+Internet Protocol Version 4, Src: 130.117.49.153, Dst: 10.214.0.88
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 96
+    Identification: 0xaa5c (43612)
+    Flags: 0x0000
+    Time to live: 248
+    Protocol: ICMP (1)
+    Header checksum: 0x5904 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 130.117.49.153
+    Destination: 10.214.0.88
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     54 0.033921194    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 54: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc24 (64548)
+    Flags: 0x0000
+    Time to live: 12
+    Protocol: UDP (17)
+    Header checksum: 0xc762 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 60035, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+     55 0.041899031    154.54.61.18          10.214.0.88           ICMP     110    Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 55: 110 bytes on wire (880 bits), 110 bytes captured (880 bits) on interface 0
+Ethernet II, Src: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c), Dst: HewlettP_7c:40:5c (58:20:b1:7c:40:5c)
+Internet Protocol Version 4, Src: 154.54.61.18, Dst: 10.214.0.88
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 96
+    Identification: 0xb8c3 (47299)
+    Flags: 0x0000
+    Time to live: 247
+    Protocol: ICMP (1)
+    Header checksum: 0x2863 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 154.54.61.18
+    Destination: 10.214.0.88
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     56 0.041998068    130.117.49.153        10.214.0.88           ICMP     110    Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 56: 110 bytes on wire (880 bits), 110 bytes captured (880 bits) on interface 0
+Ethernet II, Src: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c), Dst: HewlettP_7c:40:5c (58:20:b1:7c:40:5c)
+Internet Protocol Version 4, Src: 130.117.49.153, Dst: 10.214.0.88
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 96
+    Identification: 0xb19b (45467)
+    Flags: 0x0000
+    Time to live: 248
+    Protocol: ICMP (1)
+    Header checksum: 0x51c5 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 130.117.49.153
+    Destination: 10.214.0.88
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     57 0.042019885    130.117.49.153        10.214.0.88           ICMP     110    Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 57: 110 bytes on wire (880 bits), 110 bytes captured (880 bits) on interface 0
+Ethernet II, Src: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c), Dst: HewlettP_7c:40:5c (58:20:b1:7c:40:5c)
+Internet Protocol Version 4, Src: 130.117.49.153, Dst: 10.214.0.88
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 96
+    Identification: 0x66d1 (26321)
+    Flags: 0x0000
+    Time to live: 248
+    Protocol: ICMP (1)
+    Header checksum: 0x9c8f [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 130.117.49.153
+    Destination: 10.214.0.88
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     58 0.042282844    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 58: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc26 (64550)
+    Flags: 0x0000
+    Time to live: 12
+    Protocol: UDP (17)
+    Header checksum: 0xc760 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 44860, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+     59 0.042370037    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 59: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc27 (64551)
+    Flags: 0x0000
+    Time to live: 13
+    Protocol: UDP (17)
+    Header checksum: 0xc65f [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 40452, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+     60 0.042454254    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 60: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc28 (64552)
+    Flags: 0x0000
+    Time to live: 13
+    Protocol: UDP (17)
+    Header checksum: 0xc65e [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 36428, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+     61 0.043095831    154.54.37.238         10.214.0.88           ICMP     110    Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 61: 110 bytes on wire (880 bits), 110 bytes captured (880 bits) on interface 0
+Ethernet II, Src: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c), Dst: HewlettP_7c:40:5c (58:20:b1:7c:40:5c)
+Internet Protocol Version 4, Src: 154.54.37.238, Dst: 10.214.0.88
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 96
+    Identification: 0xee44 (60996)
+    Flags: 0x0000
+    Time to live: 246
+    Protocol: ICMP (1)
+    Header checksum: 0x0b06 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 154.54.37.238
+    Destination: 10.214.0.88
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     62 0.043139619    154.54.61.18          10.214.0.88           ICMP     110    Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 62: 110 bytes on wire (880 bits), 110 bytes captured (880 bits) on interface 0
+Ethernet II, Src: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c), Dst: HewlettP_7c:40:5c (58:20:b1:7c:40:5c)
+Internet Protocol Version 4, Src: 154.54.61.18, Dst: 10.214.0.88
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 96
+    Identification: 0xb8c4 (47300)
+    Flags: 0x0000
+    Time to live: 247
+    Protocol: ICMP (1)
+    Header checksum: 0x2862 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 154.54.61.18
+    Destination: 10.214.0.88
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     63 0.043163092    154.54.38.66          10.214.0.88           ICMP     110    Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 63: 110 bytes on wire (880 bits), 110 bytes captured (880 bits) on interface 0
+Ethernet II, Src: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c), Dst: HewlettP_7c:40:5c (58:20:b1:7c:40:5c)
+Internet Protocol Version 4, Src: 154.54.38.66, Dst: 10.214.0.88
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 96
+    Identification: 0x1973 (6515)
+    Flags: 0x0000
+    Time to live: 247
+    Protocol: ICMP (1)
+    Header checksum: 0xde83 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 154.54.38.66
+    Destination: 10.214.0.88
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     64 0.043344150    154.54.37.238         10.214.0.88           ICMP     110    Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 64: 110 bytes on wire (880 bits), 110 bytes captured (880 bits) on interface 0
+Ethernet II, Src: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c), Dst: HewlettP_7c:40:5c (58:20:b1:7c:40:5c)
+Internet Protocol Version 4, Src: 154.54.37.238, Dst: 10.214.0.88
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 96
+    Identification: 0xee45 (60997)
+    Flags: 0x0000
+    Time to live: 246
+    Protocol: ICMP (1)
+    Header checksum: 0x0b05 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 154.54.37.238
+    Destination: 10.214.0.88
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     65 0.043367790    130.117.14.94         10.214.0.88           ICMP     102    Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 65: 102 bytes on wire (816 bits), 102 bytes captured (816 bits) on interface 0
+Ethernet II, Src: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c), Dst: HewlettP_7c:40:5c (58:20:b1:7c:40:5c)
+Internet Protocol Version 4, Src: 130.117.14.94, Dst: 10.214.0.88
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x48 (DSCP: AF21, ECN: Not-ECT)
+    Total Length: 88
+    Identification: 0x6be3 (27619)
+    Flags: 0x0000
+    Time to live: 54
+    Protocol: ICMP (1)
+    Header checksum: 0x7c79 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 130.117.14.94
+    Destination: 10.214.0.88
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     66 0.043387603    154.54.37.238         10.214.0.88           ICMP     110    Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 66: 110 bytes on wire (880 bits), 110 bytes captured (880 bits) on interface 0
+Ethernet II, Src: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c), Dst: HewlettP_7c:40:5c (58:20:b1:7c:40:5c)
+Internet Protocol Version 4, Src: 154.54.37.238, Dst: 10.214.0.88
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 96
+    Identification: 0x45b2 (17842)
+    Flags: 0x0000
+    Time to live: 246
+    Protocol: ICMP (1)
+    Header checksum: 0xb398 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 154.54.37.238
+    Destination: 10.214.0.88
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     67 0.043409323    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 67: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc29 (64553)
+    Flags: 0x0000
+    Time to live: 13
+    Protocol: UDP (17)
+    Header checksum: 0xc65d [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 53739, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+     68 0.043541685    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 68: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc2a (64554)
+    Flags: 0x0000
+    Time to live: 14
+    Protocol: UDP (17)
+    Header checksum: 0xc55c [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 48578, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+     69 0.043667890    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 69: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc2b (64555)
+    Flags: 0x0000
+    Time to live: 14
+    Protocol: UDP (17)
+    Header checksum: 0xc55b [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 44760, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+     70 0.043930874    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 70: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc2c (64556)
+    Flags: 0x0000
+    Time to live: 14
+    Protocol: UDP (17)
+    Header checksum: 0xc55a [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 43454, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+     71 0.044033067    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 71: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc2d (64557)
+    Flags: 0x0000
+    Time to live: 15
+    Protocol: UDP (17)
+    Header checksum: 0xc459 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 37502, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+     72 0.044136449    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 72: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc2e (64558)
+    Flags: 0x0000
+    Time to live: 15
+    Protocol: UDP (17)
+    Header checksum: 0xc458 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 48988, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+     73 0.044581342    130.117.14.94         10.214.0.88           ICMP     102    Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 73: 102 bytes on wire (816 bits), 102 bytes captured (816 bits) on interface 0
+Ethernet II, Src: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c), Dst: HewlettP_7c:40:5c (58:20:b1:7c:40:5c)
+Internet Protocol Version 4, Src: 130.117.14.94, Dst: 10.214.0.88
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x48 (DSCP: AF21, ECN: Not-ECT)
+    Total Length: 88
+    Identification: 0x6be6 (27622)
+    Flags: 0x0000
+    Time to live: 54
+    Protocol: ICMP (1)
+    Header checksum: 0x7c76 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 130.117.14.94
+    Destination: 10.214.0.88
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     74 0.044767633    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 74: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc2f (64559)
+    Flags: 0x0000
+    Time to live: 15
+    Protocol: UDP (17)
+    Header checksum: 0xc457 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 36279, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+     75 0.048345684    130.117.14.94         10.214.0.88           ICMP     102    Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 75: 102 bytes on wire (816 bits), 102 bytes captured (816 bits) on interface 0
+Ethernet II, Src: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c), Dst: HewlettP_7c:40:5c (58:20:b1:7c:40:5c)
+Internet Protocol Version 4, Src: 130.117.14.94, Dst: 10.214.0.88
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x48 (DSCP: AF21, ECN: Not-ECT)
+    Total Length: 88
+    Identification: 0x6bf7 (27639)
+    Flags: 0x0000
+    Time to live: 54
+    Protocol: ICMP (1)
+    Header checksum: 0x7c65 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 130.117.14.94
+    Destination: 10.214.0.88
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     76 0.048625288    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 76: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc30 (64560)
+    Flags: 0x0000
+    Time to live: 16
+    Protocol: UDP (17)
+    Header checksum: 0xc356 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 41051, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+     77 0.050149380    4.69.159.90           10.214.0.88           ICMP     70     Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 77: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface 0
+Ethernet II, Src: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c), Dst: HewlettP_7c:40:5c (58:20:b1:7c:40:5c)
+Internet Protocol Version 4, Src: 4.69.159.90, Dst: 10.214.0.88
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x48 (DSCP: AF21, ECN: Not-ECT)
+    Total Length: 56
+    Identification: 0x0000 (0)
+    Flags: 0x0000
+    Time to live: 243
+    Protocol: ICMP (1)
+    Header checksum: 0x18b0 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 4.69.159.90
+    Destination: 10.214.0.88
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     78 0.050625390    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 78: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc31 (64561)
+    Flags: 0x0000
+    Time to live: 16
+    Protocol: UDP (17)
+    Header checksum: 0xc355 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 57893, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+     79 0.060606737    4.69.159.90           10.214.0.88           ICMP     70     Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 79: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface 0
+Ethernet II, Src: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c), Dst: HewlettP_7c:40:5c (58:20:b1:7c:40:5c)
+Internet Protocol Version 4, Src: 4.69.159.90, Dst: 10.214.0.88
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x48 (DSCP: AF21, ECN: Not-ECT)
+    Total Length: 56
+    Identification: 0x0000 (0)
+    Flags: 0x0000
+    Time to live: 243
+    Protocol: ICMP (1)
+    Header checksum: 0x18b0 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 4.69.159.90
+    Destination: 10.214.0.88
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     80 0.060881481    10.214.0.88           8.254.214.254         DNS      74     Unknown operation (8) 0x4041[Malformed Packet]
+
+Frame 80: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HewlettP_7c:40:5c (58:20:b1:7c:40:5c), Dst: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c)
+Internet Protocol Version 4, Src: 10.214.0.88, Dst: 8.254.214.254
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0xfc33 (64563)
+    Flags: 0x0000
+    Time to live: 16
+    Protocol: UDP (17)
+    Header checksum: 0xc353 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 10.214.0.88
+    Destination: 8.254.214.254
+User Datagram Protocol, Src Port: 49649, Dst Port: 53
+Domain Name System (query)
+[Malformed Packet: DNS]
+
+No.     Time           Source                Destination           Protocol Length Info
+     81 0.068862306    4.69.159.90           10.214.0.88           ICMP     70     Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 81: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface 0
+Ethernet II, Src: HewlettP_2d:df:4c (d0:7e:28:2d:df:4c), Dst: HewlettP_7c:40:5c (58:20:b1:7c:40:5c)
+Internet Protocol Version 4, Src: 4.69.159.90, Dst: 10.214.0.88
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x48 (DSCP: AF21, ECN: Not-ECT)
+    Total Length: 56
+    Identification: 0x0000 (0)
+    Flags: 0x0000
+    Time to live: 243
+    Protocol: ICMP (1)
+    Header checksum: 0x18b0 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 4.69.159.90
+    Destination: 10.214.0.88
+Internet Control Message Protocol

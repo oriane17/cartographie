@@ -1,0 +1,23 @@
+->
+"1 192.168.1.254 [AS198949]"
+->
+"2 194.149.169.168 [AS12322]"
+->
+"3 194.149.166.54 [AS12322]"
+->
+"Routeur 4 introuvable pour www.iutbeziers.fr"
+->
+"5 193.51.180.63 [AS2200]"
+->
+"6 193.51.177.222 [AS2200]"
+->
+"7 193.51.177.237 [AS2200]"
+->
+"8 193.55.200.9 [AS2200]"
+->
+"9 194.199.227.254 [AS2200]"
+->
+"10 194.199.227.80 [AS2200]"
+[color=gold]
+"Routeur 5 introuvable pour www.iutbeziers.fr" [shape=box]
+"Routeur 4 introuvable pour www.iutbeziers.fr" [shape=box]

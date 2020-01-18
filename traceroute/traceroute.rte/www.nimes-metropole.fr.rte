@@ -1,0 +1,28 @@
+->
+"1 192.168.1.254 [AS198949]"
+->
+"2 194.149.164.54 [AS12322]"
+->
+"3 194.149.166.38 [AS12322]"
+->
+"4 194.149.171.66 [AS12322]"
+->
+"Routeur 5 introuvable pour www.nimes-metropole.fr"
+->
+"6 83.167.56.163 [AS8218]"
+->
+"7 83.167.55.212 [AS8218]"
+->
+"8 46.255.177.93 [AS8218]"
+->
+"Routeur 9 introuvable pour www.nimes-metropole.fr"
+->
+"Routeur 10 introuvable pour www.nimes-metropole.fr"
+->
+"11 109.205.1.73 [AS198682]"
+->
+"12 185.140.136.49 [AS198682]"
+[color=purple]
+"Routeur 5 introuvable pour www.nimes-metropole.fr" [shape=box]
+"Routeur 9 introuvable pour www.nimes-metropole.fr" [shape=box]
+"Routeur 10 introuvable pour www.nimes-metropole.fr" [shape=box]

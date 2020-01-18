@@ -1,0 +1,11 @@
+digraph grapheTR {
+localhost
+-> "1 10.214.255.254 [AS51999]" -> "2 194.199.227.254 [AS2200]" -> "3 10.3.7.25 [AS51999]" -> "4 193.55.200.8 [AS2200]" -> "5 193.51.177.18 [AS2200]" -> "6 193.51.180.10 [AS2200]" -> "7 193.51.177.168 [AS2200]" -> "8 193.51.177.42 [AS2200]" -> "9 195.42.144.162 [*]" -> "Routeur 10 introuvable pour www.alliancetelecom.fr" -> "11 52.46.94.28 [AS16509]" -> "12 52.46.94.31 [AS16509]" -> "13 52.46.93.207 [AS16509]" -> "14 52.46.93.90 [AS16509]" -> "Routeur 15 introuvable pour www.alliancetelecom.fr" -> "Routeur 16 introuvable pour www.alliancetelecom.fr" -> "Routeur 17 introuvable pour www.alliancetelecom.fr" -> "18 35.180.116.230 [AS16509]" [color=blue] "Routeur 10 introuvable pour www.alliancetelecom.fr" [shape=box] "Routeur 15 introuvable pour www.alliancetelecom.fr" [shape=box] "Routeur 16 introuvable pour www.alliancetelecom.fr" [shape=box] "Routeur 17 introuvable pour www.alliancetelecom.fr" [shape=box] 
+;
+localhost
+-> "1 10.214.255.254 [AS51999]" -> "2 194.199.227.80 [AS2200]" [color=gold] 
+;
+localhost
+-> "1 10.214.255.254 [AS51999]" -> "2 194.199.227.254 [AS2200]" -> "3 10.3.7.25 [AS51999]" -> "4 193.55.200.8 [AS2200]" -> "5 193.51.177.18 [AS2200]" -> "6 193.51.180.10 [AS2200]" -> "7 77.95.71.60 [AS199422]" -> "8 83.167.55.19 [AS8218]" -> "9 83.167.55.212 [AS8218]" -> "10 46.255.177.93 [AS8218]" -> "Routeur 11 introuvable pour www.nimes-metropole.fr" -> "Routeur 12 introuvable pour www.nimes-metropole.fr" -> "13 109.205.1.73 [AS198682]" -> "14 185.140.136.49 [AS198682]" [color=purple] "Routeur 11 introuvable pour www.nimes-metropole.fr" [shape=box] "Routeur 12 introuvable pour www.nimes-metropole.fr" [shape=box] 
+;
+}
