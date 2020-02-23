@@ -1,4 +1,6 @@
-[color=gold]
-"Routeur 10 introuvable pour www.iutbeziers.fr" [shape=box]
-"Routeur 11 introuvable pour www.iutbeziers.fr" [shape=box]
-"Routeur 12 introuvable pour www.iutbeziers.fr" [shape=box]
+->
+"1 192.168.1.254 [AS198949]"
+->
+"2 194.149.169.168 [AS12322]"
+->
+"3 194.149.166.54 [AS12322]"
