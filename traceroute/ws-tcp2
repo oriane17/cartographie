@@ -1,0 +1,79 @@
+No.     Time           Source                Destination           Protocol Length Info
+    508 81.087050080   192.168.1.30          185.75.143.25         TCP      74     52665 → 80 [SYN] Seq=0 Win=5840 Len=0 MSS=1460 SACK_PERM=1 TSval=3837575513 TSecr=0 WS=4
+
+Frame 508: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HonHaiPr_6e:62:a4 (70:77:81:6e:62:a4), Dst: FreeboxS_3f:47:20 (70:fc:8f:3f:47:20)
+Internet Protocol Version 4, Src: 192.168.1.30, Dst: 185.75.143.25
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0x5988 (22920)
+    Flags: 0x0000
+    Time to live: 14
+    Protocol: TCP (6)
+    Header checksum: 0x4909 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 192.168.1.30
+    Destination: 185.75.143.25
+Transmission Control Protocol, Src Port: 52665, Dst Port: 80, Seq: 0, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    509 81.087191108   192.168.1.30          185.75.143.25         TCP      74     59869 → 80 [SYN] Seq=0 Win=5840 Len=0 MSS=1460 SACK_PERM=1 TSval=3837575513 TSecr=0 WS=4
+
+Frame 509: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HonHaiPr_6e:62:a4 (70:77:81:6e:62:a4), Dst: FreeboxS_3f:47:20 (70:fc:8f:3f:47:20)
+Internet Protocol Version 4, Src: 192.168.1.30, Dst: 185.75.143.25
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0x5989 (22921)
+    Flags: 0x0000
+    Time to live: 15
+    Protocol: TCP (6)
+    Header checksum: 0x4808 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 192.168.1.30
+    Destination: 185.75.143.25
+Transmission Control Protocol, Src Port: 59869, Dst Port: 80, Seq: 0, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    512 81.110952595   192.168.1.30          185.75.143.25         TCP      74     53045 → 80 [SYN] Seq=0 Win=5840 Len=0 MSS=1460 SACK_PERM=1 TSval=3837575513 TSecr=0 WS=4
+
+Frame 512: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HonHaiPr_6e:62:a4 (70:77:81:6e:62:a4), Dst: FreeboxS_3f:47:20 (70:fc:8f:3f:47:20)
+Internet Protocol Version 4, Src: 192.168.1.30, Dst: 185.75.143.25
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0x598d (22925)
+    Flags: 0x0000
+    Time to live: 15
+    Protocol: TCP (6)
+    Header checksum: 0x4804 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 192.168.1.30
+    Destination: 185.75.143.25
+Transmission Control Protocol, Src Port: 53045, Dst Port: 80, Seq: 0, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    515 81.134199710   192.168.1.30          185.75.143.25         TCP      74     57779 → 80 [SYN] Seq=0 Win=5840 Len=0 MSS=1460 SACK_PERM=1 TSval=3837575513 TSecr=0 WS=4
+
+Frame 515: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: HonHaiPr_6e:62:a4 (70:77:81:6e:62:a4), Dst: FreeboxS_3f:47:20 (70:fc:8f:3f:47:20)
+Internet Protocol Version 4, Src: 192.168.1.30, Dst: 185.75.143.25
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 60
+    Identification: 0x5991 (22929)
+    Flags: 0x0000
+    Time to live: 15
+    Protocol: TCP (6)
+    Header checksum: 0x4800 [validation disabled]
+    [Header checksum status: Unverified]
+    Source: 192.168.1.30
+    Destination: 185.75.143.25
+Transmission Control Protocol, Src Port: 57779, Dst Port: 80, Seq: 0, Len: 0
